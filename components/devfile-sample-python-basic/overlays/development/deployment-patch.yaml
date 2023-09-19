@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/yherzog-tenant/devfile-sample-python-basic/devfile-sample-python-basic@sha256:778e12c93b3524d55c57838c90eeac10442f261320363fcb4d72e65b806fb14b
+      - image: quay.io/redhat-user-workloads/yherzog-tenant/devfile-sample-python-basic/devfile-sample-python-basic@sha256:3202ef186e41d92ed9423cc625001b90721e1668620c3dca4a7bf084c4921326
         name: my-python
         resources: {}
 status: {}
